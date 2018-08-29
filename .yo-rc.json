@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.inochi",
+      "nativeLanguage": "vi"
+    },
+    "jhipsterVersion": "5.2.1",
+    "applicationType": "monolith",
+    "baseName": "inochi",
+    "packageName": "com.inochi",
+    "packageFolder": "com/inochi",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mariadb",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "f023a6dcf72e33c4a21c683d58fc316152255ba6",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "yarn",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "vi",
+    "languages": [
+      "vi",
+      "cs",
+      "en"
+    ]
+  }
+}
