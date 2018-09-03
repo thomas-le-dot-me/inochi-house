@@ -9,6 +9,10 @@
                 "main": "Thực thể",
                 "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
             },
+            "billings":{
+                "main":"Hóa đơn",
+                "electricity":"Electricity"
+            }, 
             "account": {
                 "main": "Tài khoản",
                 "settings": "Cài đặt",
@@ -120,6 +124,7 @@
             "datetimelocal": "Trường này phải là định dạng thời gian."
         }
     },
+
     "error": {
         "internalServerError": "Lỗi máy chủ nội bộ",
         "server.not.reachable": "Không tìm thấy máy chủ",
